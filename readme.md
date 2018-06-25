@@ -22,4 +22,4 @@
 	Convex cost functions
 Precision, Recall, (true positives, true negatives, false positives, false negatives), F1 score
 
-* items implemented as of this writing
+ * items implemented as of this writing
