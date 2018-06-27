@@ -4,7 +4,7 @@
 	* Linear Regression - linear and polynomial fit
 	* Logistic Regression - classification
 		* Mulitclass classification
-	Neural Network - classification
+	* Neural Network - classification
 	Support Vector Machines - Large margin classifiers
 		Gaussian Kernel - similarity function
 
