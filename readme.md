@@ -17,9 +17,9 @@
 	Recommendation systems
 
 ## Diagnostics
-	Underfitting Bias
-	Overfitting Variance
-	Convex cost functions
-    Precision, Recall, (true positives, true negatives, false positives, false negatives), F1 score
+	* Underfitting Bias
+	* Overfitting Variance
+	* Convex cost functions
+	* Precision, Recall, (true positives, true negatives, false positives, false negatives), F1 score
 
     * items implemented as of this writing
