@@ -5,16 +5,16 @@
 	* Logistic Regression - classification
 		* Mulitclass classification
 	* Neural Network - classification
-	Support Vector Machines - Large margin classifiers
+	* Support Vector Machines - Large margin classifiers
 		Gaussian Kernel - similarity function
 
 ## Unsupervised Learning
-	K-Means - clustering
-	Principal Component Analysis - dimensional reduction
-	Anomaly Detection - Gaussian/normal distribution
+	* K-Means - clustering
+	* Principal Component Analysis - dimensional reduction
+	* Anomaly Detection - Gaussian/normal distribution
 
 ## Applied Algorithms
-	Recommendation systems
+	* Recommendation systems
 
 ## Diagnostics
 	* Underfitting Bias
@@ -22,4 +22,4 @@
 	* Convex cost functions
 	* Precision, Recall, (true positives, true negatives, false positives, false negatives), F1 score
 
-    * items implemented as of this writing
+by Alek Zdziarski
