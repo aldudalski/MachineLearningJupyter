@@ -1,5 +1,7 @@
 # Summary of algorithms and tools:
 
+Check out overview here (https://alekzdz.blogspot.com/2018/08/solutions-to-andrew-ngs-machine.html)
+
 ## Supervised Learning
 	* Linear Regression - linear and polynomial fit
 	* Logistic Regression - classification
